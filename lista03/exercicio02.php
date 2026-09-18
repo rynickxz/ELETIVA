@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercícios</title>
+</head>
+
+<body>
+
+    <h1>Exercício 02</h1>
+
+    <form method="POST" action="respostas02.php">
+
+        <label for="palavra">Informe a palavra:</label>
+        <input type="text" id="palavra" name="palavra">
+
+        <button type="submit">Executar</button>
+
+    </form>
+
+
+
+</body>
+
+</html>
